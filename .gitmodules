@@ -1,0 +1,3 @@
+[submodule "ratemyteachers-dump"]
+	path = ratemyteachers-dump
+	url = https://github.com/studentsreview/ratemyteachers-dump.git
